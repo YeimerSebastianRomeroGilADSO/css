@@ -1,13 +1,5 @@
 
-p {
+.titulo-h2 {
     color: red;
 }
-
-h2 {
-    color: red;
-}
-
-h1 {
-    color: red;
-}
-/*ditores de tipo son los que seleccionamos lo que queremos editar osea pñor el  nombre del elemento 
+/* los selectores de clases son los que se mles coloca "class" dentro de cada elemento 
