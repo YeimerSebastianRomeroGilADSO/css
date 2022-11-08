@@ -1,5 +1,12 @@
 
 
-[rancio="sii"] {
-    color: brown;
+h2 {
+    color: red;
+}
+
+h2 b {
+    color: red;
+}
+.h2-class b span {
+    color: blue;
 }
