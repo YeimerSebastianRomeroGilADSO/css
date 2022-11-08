@@ -1,4 +1,17 @@
 
-b:hover {
-    color: rgb(255, 0, 0) ;
+#color-blue {
+    color:blue;
+}
+
+
+.color-red {
+    color:blue;
+}
+
+h1 {
+    color: red  ;
+}
+
+h1 {
+    color: grey !important 
 }
